@@ -8,6 +8,8 @@ function carregar()
     var hora = data.getHours()
     msg.innerHTML = `Agora são ${hora} horas`
     
+    /*A linha 12 configura as horas, coloque
+    outros valores para modificar as horas*/
     hora = 6
     if(hora >= 0 && hora <12){
         //BOM DIA!
