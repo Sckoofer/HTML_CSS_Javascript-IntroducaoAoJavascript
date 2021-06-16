@@ -19,4 +19,4 @@ Front_End_Exercicio_3:
 Front_End_Exercicio_4:
 
 
-![imagem](https://github.com/Sckoofer/HTML_CSS_Javascript/blob/main/Front_End_Exercicio_4/HTML_CSS_Javascript_exercicio_4.PNG.gif)
+![imagem](https://github.com/Sckoofer/HTML_CSS_Javascript/blob/main/Front_End_Exercicio_4/HTML_CSS_Javascript_exercicio_4.gif)
