@@ -79,5 +79,8 @@ function carregar_script(){
         
         //Muda a cor da tag mensagem
         Introducao.style.backgroundColor = '#4F4351';
+        
+        //Não permite a função de scroll para a imagem ao fundo
+        document.body.style.backgroundAttachment = "fixed";
     }    
 }
