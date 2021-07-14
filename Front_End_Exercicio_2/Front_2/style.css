@@ -1,0 +1,33 @@
+body{
+    background-image: url("Fundo_1_desfocado.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+div#posicionarimagemaesquerda{
+    float: left;
+    margin: 130px;
+    width: 330px;
+    
+    
+}
+
+img#primeiraimagem{
+    border-radius: 10px;
+    box-shadow: 3px 5px 10px rgb(99, 96, 96);
+
+}
+div#textoladodireito{
+    
+    
+}
+p#caixadetexto{
+    font-family: Georgia, serif;
+    font-style:italic;
+    font-size:  22px;
+    
+    color: black;
+    padding: 150px;
+
+}
